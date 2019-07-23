@@ -1,23 +1,23 @@
 {
   "events": [
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023}
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023}
   ],
   "hotels": [
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023},
-    { "name": 1, "latitude": 45.234, "latitude": 25.023}
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023},
+    { "name": 1, "latitude": 45.234, "longitude": 25.023}
   ]
   
 }
